@@ -23,3 +23,5 @@ The application is built with Java 21 and requires Java 21 or later to be instal
 EWI will expand into production planning and management, connecting warehouse stock with material requirements, production chains, and cost and profitability estimates.
 
 The goal is to help players decide what to use from stock, what to manufacture, and what to buy. Production management is planned and is not yet implemented.
+
+Have a suggestion or found a bug? Please share it in the [Issues section](https://github.com/goldenwing2k/ewi-releases/issues).
