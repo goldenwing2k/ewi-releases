@@ -12,6 +12,12 @@ Your warehouse is a personal, locally stored inventory. You decide which items a
 - **Purchase import:** load a character’s recent EVE market purchases and use selected entries to prepare a receipt.
 - **Data from multiple characters:** retrieve EVE data using multiple characters authorized through EVE SSO.
 
+## Platforms and Requirements
+
+EWI supports Windows x64 and macOS.
+
+The application is built with Java 21 and requires Java 21 or later to be installed separately. Java is not included with the application.
+
 ## Future Development: Production Management
 
 EWI will expand into production planning and management, connecting warehouse stock with material requirements, production chains, and cost and profitability estimates.
