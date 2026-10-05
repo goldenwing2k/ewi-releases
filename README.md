@@ -8,6 +8,7 @@ Your warehouse is a personal, locally stored inventory. You decide which items a
 
 - **Stock overview:** on-hand, reserved and available quantities, shortages, weighted average unit costs, and total inventory value.
 - **Warehouse operations:** receive and issue items, enter multiple items at once, and allocate additional costs.
+- **Inventory reconciliation:** compare warehouse quantities with selected in-game assets and correct differences through receipts and issues.
 - **Reservations:** manage named reservations, issue reserved materials, and save or load reservation sets.
 - **Purchase import:** load a character’s recent EVE market purchases and use selected entries to prepare a receipt.
 - **Data from multiple characters:** retrieve EVE data using multiple characters authorized through EVE SSO.
